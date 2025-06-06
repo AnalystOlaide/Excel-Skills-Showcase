@@ -13,7 +13,7 @@ Professionals in business and data roles are often required to leverage Excel fo
 * How can dashboards provide real-time insights?
 * How can automation reduce manual workloads?
 
-## 🗂 Data Source
+## Data Source
 
 The data used is from an open-source dataset, curated to simulate regional sales performance (Midwest, South, West, etc.). It has been cleaned and structured to fit real-world business cases.
 
@@ -77,7 +77,8 @@ Pivot tables and charts were created to explore trends, such as:
 
 ###  Data Validation (Dropdowns, Error Restriction)
 
-![Data Validation](https://github.com/user-attachments/assets/50efc10a-c157-429b-823b-3321571da4f9)
+![image](https://github.com/user-attachments/assets/1fd79643-bee1-4585-b505-8d700a4899f7)
+
 
 ###  Pivot Tables (Data Summarization)
 
