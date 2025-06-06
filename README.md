@@ -1,10 +1,10 @@
-# 📊 Excel Skills Showcase Project
+#  Excel Skills Showcase Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates practical Excel skills using real-world scenarios. The objective is to create a visually insightful, interactive Excel workbook that highlights the core competencies needed by a data analyst. The Excel tools showcased cover data cleaning, analysis, automation, and dashboard reporting.
 
-## 🧩 Problem Statement
+##  Problem Statement
 
 Professionals in business and data roles are often required to leverage Excel for diverse tasks including data wrangling, logic-based analysis, reporting, and automation. This project addresses the following core questions:
 
@@ -13,17 +13,16 @@ Professionals in business and data roles are often required to leverage Excel fo
 * How can dashboards provide real-time insights?
 * How can automation reduce manual workloads?
 
-## 🗂️ Data Source
+## 🗂 Data Source
 
 The data used is from an open-source dataset, curated to simulate regional sales performance (Midwest, South, West, etc.). It has been cleaned and structured to fit real-world business cases.
 
-## 📊 Data Structure
+##  Data Structure
 
 Columns include: `Region`, `Sales`, `Product`, `Customer Type`, `Order Date`, `Delivery Date`, `Discount`, `Profit`, `Quantity`, `Channel`, etc.
 
----
 
-## ✅ Key Excel Skills Demonstrated
+##  Key Excel Skills Demonstrated
 
 | Skill                      | Description                                                                                                     |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------- |
@@ -36,11 +35,11 @@ Columns include: `Region`, `Sales`, `Product`, `Customer Type`, `Order Date`, `D
 | **Date Functions**         | Calculated durations, deadlines, and dynamic dates using `TODAY()`, `NOW()`, `DATEDIF()`, `NETWORKDAYS()`, etc. |
 | **VBA & Macros**           | Automated repetitive tasks via recorded macros and basic VBA scripting.                                         |
 
-## 🧰 Tool Used
+##  Tool Used
 
 **Microsoft Excel**
 
-## 🧠 Excel Skills Applied
+##  Excel Skills Applied
 
 * **Power Query**: For importing, cleaning, and transforming data
 * **Functions**: Lookup, Logical, Text, and Date functions
@@ -50,15 +49,14 @@ Columns include: `Region`, `Sales`, `Product`, `Customer Type`, `Order Date`, `D
 * **Dashboards**: For real-time reporting
 * **VBA/Macros**: To automate repetitive tasks
 
----
 
-## 🔎 Data Analysis Process
+##  Data Analysis Process
 
-### 🔹 Data Cleaning & Transformation
+### Data Cleaning & Transformation
 
 Power Query was used to load and preprocess the data—renaming columns, handling missing values, correcting data types, and unifying formatting standards.
 
-### 🔹 Exploratory Data Analysis
+###  Exploratory Data Analysis
 
 Pivot tables and charts were created to explore trends, such as:
 
@@ -66,49 +64,47 @@ Pivot tables and charts were created to explore trends, such as:
 * Customer types and their purchase behaviors
 * Performance of different sales channels
 
----
 
-## 🗂️ Data Visualization
+##  Data Visualization
 
-### 🔍 Lookup Functions (`VLOOKUP`, `HLOOKUP`)
+###  Lookup Functions (`VLOOKUP`, `HLOOKUP`)
 
 ![Lookup Functions](https://github.com/user-attachments/assets/63a260f7-721b-4f28-bf2f-e73f38a61e30)
 
-### 🤖 Logical Functions (`IF`, `AND`, `OR`, `IFS`)
+###  Logical Functions (`IF`, `AND`, `OR`, `IFS`)
 
 ![Logical Functions](https://github.com/user-attachments/assets/ee153f21-ad36-4793-9a0f-fbdbf8a3bc0f)
 
-### ✅ Data Validation (Dropdowns, Error Restriction)
+###  Data Validation (Dropdowns, Error Restriction)
 
 ![Data Validation](https://github.com/user-attachments/assets/50efc10a-c157-429b-823b-3321571da4f9)
 
-### 📊 Pivot Tables (Data Summarization)
+###  Pivot Tables (Data Summarization)
 
 ![Pivot Table](https://github.com/user-attachments/assets/475dd6a3-ff57-4dbf-81b5-8621ec112456)
 
-### 📈 Interactive Dashboards
+###  Interactive Dashboards
 
 ![Dashboard](https://github.com/user-attachments/assets/35248eef-8a75-470a-8b0c-3b0ee1ec4b6c)
 
-### 🧮 Macros
+### Macros
 
 ![Conditional Formatting](https://github.com/user-attachments/assets/a066fc2c-4698-41dd-b297-0f8198cf5527)
 
-### 🎨 Conditional Formatting
+### Conditional Formatting
 
 ![Date Functions](https://github.com/user-attachments/assets/24125357-8b2e-4c04-90d4-37d26ff5febb)
 
-### ⚙️ VBA (Automation)
+### VBA (Automation)
 
 ![image](https://github.com/user-attachments/assets/9ae5d335-d5e2-40a5-9c94-cfa48581e8a0)
 
-### 🗂️ Date Functions
+### Date Functions
 
 ![image](https://github.com/user-attachments/assets/2069da00-afa4-499d-b161-b3341191070e)
 
----
 
-## ✅ Key Insights
+## Key Insights
 
 * Lookup and logical formulas simplify report generation.
 * Data validation enforces data integrity.
@@ -119,28 +115,27 @@ Pivot tables and charts were created to explore trends, such as:
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 * Apply these techniques to automate routine reporting tasks.
 * Use dashboards for monthly or quarterly performance reviews.
 * Train business users on logic and lookup functions for better self-service analytics.
 
----
 
-## 🚀 How to Use This Project
+##  How to Use This Project
 
 1. **Download the Excel workbook** (.xlsm)
 2. Enable **Macros** to activate automation features
 3. Use the **Dashboard** tab for interactive analysis
 4. Explore other sheets to view each technique in practice
 
----
 
-## 👤 Author
+
+##  Author
 
 **Yusuf Olaide** — Data Analyst | Excel Enthusiast
 
-## 📎 License
+## License
 
 This project is for educational and professional portfolio use.
 Feel free to fork, reuse, or adapt it to support your learning or job applications.
